@@ -52,7 +52,7 @@ git clone https://github.com/your-username/knastu_algorithms.git
 cd knastu_algorithms
 
 2.	Установите зависимости:
-nginx
+
 pip install -r requirements.txt
 Запуск
 
